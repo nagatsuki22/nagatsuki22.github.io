@@ -1,5 +1,4 @@
 @charset "utf-8";
-@import url(http://fonts.googleapis.com/earlyaccess/roundedmplus1c.css);
 html{ 
 	display: inline-block;
 	text-align:center;
@@ -23,12 +22,10 @@ body {
 
 p {
 	font-size: 18pt;
-	font-family: "Rounded Mplus 1c";
 }
 
 h1 {
 	font-size: 24pt;
-	font-family: "Rounded Mplus 1c";
 }
 
 a {
@@ -37,7 +34,6 @@ a {
 	background-color:#FFFFFF; color:#000000;
 	text-align:center;
 	text-decoration:none;
-	font-family: "Rounded Mplus 1c";
 }
 
 a:hover{
