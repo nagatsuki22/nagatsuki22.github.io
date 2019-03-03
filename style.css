@@ -1,0 +1,45 @@
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/earlyaccess/roundedmplus1c.css);
+html{ 
+	display: inline-block;
+	text-align:center;
+}
+
+body {
+	background-color: #000000;
+	color: white;
+    display: inline-block;
+	text-align:center;
+	justify-content: center;
+	box-sizing: border-box;
+
+}
+
+#link {
+	width: 40%;
+	display: inline-block;
+	text-align:center;
+}
+
+p {
+	font-size: 17pt;
+	font-family: "Rounded Mplus 1c";
+}
+
+h1 {
+	font-size: 25pt;
+	font-family: "Rounded Mplus 1c";
+}
+
+a {
+	display:block;
+	width: 100%;
+	background-color:#FFFFFF; color:#000000;
+	text-align:center;
+	text-decoration:none;
+	font-family: "Rounded Mplus 1c";
+}
+
+a:hover{
+	background-color:#DDDDDD;
+}
